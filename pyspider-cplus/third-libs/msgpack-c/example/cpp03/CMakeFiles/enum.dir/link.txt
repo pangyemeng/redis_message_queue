@@ -1,0 +1,1 @@
+/usr/bin/c++   -DMSGPACK_DEFAULT_API_VERSION=2 -std=c++11    CMakeFiles/enum.dir/enum.cpp.o  -o enum -rdynamic 

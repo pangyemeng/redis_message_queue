@@ -1,0 +1,1 @@
+/usr/bin/c++   -DMSGPACK_DEFAULT_API_VERSION=2 -std=c++11    CMakeFiles/non_def_con_class.dir/non_def_con_class.cpp.o  -o non_def_con_class -rdynamic 
